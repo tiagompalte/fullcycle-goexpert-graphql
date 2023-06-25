@@ -24,4 +24,6 @@ vendor/
 # Go workspace file
 go.work
 
+data.db
+
 # End of https://www.toptal.com/developers/gitignore/api/go
